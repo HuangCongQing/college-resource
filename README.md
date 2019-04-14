@@ -9,23 +9,24 @@
 
 ### Resource
 
-北京大学的课程资料
+1. 北京大学的课程资料
 https://github.com/lib-pku/libpku
-浙大项目传送门：
+1. 浙大项目传送门：
 https://github.com/QSCTech/zju-icicles
 
-清华大学共享了计算机系课程资源：
+1. 清华大学共享了计算机系课程资源：
 https://github.com/PKUanonym/REKCARC-TSC-UHT
 
-中科大共享了计算机学院的课程资源：
+1. 中科大共享了计算机学院的课程资源：
 https://github.com/USTC-Resource/USTC-Course
-上海交大共享了14门关于计算机和高数的课程资源：
+1. 上海交大共享了14门关于计算机和高数的课程资源：
 https://github.com/CoolPhilChen/SJTU-Courses/
 
 
 
 * 北京大学的课程资料
  [https://github.com/lib-pku/libpku](https://github.com/lib-pku/libpku)
+
 ![image.png](https://upload-images.jianshu.io/upload_images/4340772-9abe8af65fdf65a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
@@ -39,18 +40,18 @@ https://github.com/QSCTech/zju-icicles
 
 * 清华大学共享了计算机系课程资源：
 [https://github.com/PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-
 ![image.png](https://upload-images.jianshu.io/upload_images/4340772-0bb981a54e5a39a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-大一
+    * 大一
 ![image.png](https://upload-images.jianshu.io/upload_images/4340772-3c15734f06bff61b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-大二
+
+    * 大二
 ![image.png](https://upload-images.jianshu.io/upload_images/4340772-ca06da333c731039.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-大三
+
+    * 大三
 ![image.png](https://upload-images.jianshu.io/upload_images/4340772-3d3b6b6d90dfa579.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-大三研究生
+    * 大三研究生
 ![image.png](https://upload-images.jianshu.io/upload_images/4340772-9140f81288321fd5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
