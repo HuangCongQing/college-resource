@@ -22,6 +22,12 @@ https://github.com/USTC-Resource/USTC-Course
 1. 上海交大共享了14门关于计算机和高数的课程资源：
 https://github.com/CoolPhilChen/SJTU-Courses/
 
+1. 山东大学软件学院学习资料共享：
+https://github.com/cyingyo/sdu-sc-resources
+
+
+
+
 。。。
 
 * 北京大学的课程资料
