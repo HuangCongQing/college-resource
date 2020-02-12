@@ -25,6 +25,8 @@ https://github.com/CoolPhilChen/SJTU-Courses/
 1. 山东大学软件学院学习资料共享：
 https://github.com/cyingyo/sdu-sc-resources
 
+1. 电子科技大学资源共享平台：
+https://github.com/Xovee/uestc-course
 
 
 
