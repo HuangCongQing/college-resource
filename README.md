@@ -79,6 +79,8 @@ https://github.com/CoolPhilChen/SJTU-Courses/
 ![image.png](https://upload-images.jianshu.io/upload_images/4340772-e7868936aebbff11.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+* 南航计算机考研 专业课资料 和 信息汇总.
+[nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan)
 
 
 ### Contribution
