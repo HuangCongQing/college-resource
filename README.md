@@ -82,6 +82,9 @@ https://github.com/CoolPhilChen/SJTU-Courses/
 * 南航计算机考研 专业课资料 和 信息汇总.
 [nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan)
 
+* [Xovee/uestc-course](https://github.com/Xovee/uestc-course)
+
+电子科技大学资源共享平台, This repository contains the course materials of University of Electronic Science and Technology of China.
 
 
 ### Contribution
