@@ -29,8 +29,17 @@ https://github.com/cyingyo/sdu-sc-resources
 https://github.com/Xovee/uestc-course
 
 
+1. 武汉大学课程资料整理-WHU课代表计划
+https://github.com/openwhu/OpenWHU
 
-。。。
+
+### 考研
+
+
+1. 南航计算机考研 专业课资料 和 信息汇总.
+[nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan)
+
+### Details
 
 * 北京大学的课程资料
  [https://github.com/lib-pku/libpku](https://github.com/lib-pku/libpku)
