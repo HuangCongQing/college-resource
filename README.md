@@ -35,7 +35,12 @@ https://github.com/openwhu/OpenWHU
 1. 西安交通大学课程资料共享计划
 https://github.com/cantjie/XJTU-Share
 
+1. 北京航空航天大学(北航)课程作业资料共享计划
+https://github.com/TheBloodthirster/BUAA_Course_Sharing
 
+
+1.【分享】华中科技大学研究生课程资料
+https://github.com/lyandut/HUST-Invictus
 
 
 
