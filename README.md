@@ -4,7 +4,7 @@
 
 @ [愚蠢](https://github.com/HuangCongQing/college-resource)，若fork或star请注明来源
 
-> 从2016年开始接触github，这几年github发展真是特别快，尤其特别受程序员的追捧。搞的在新闻报道和朋友圈中也经常见github的身影，不过，github确实是宝藏网站，现在**有很多大学的学习资源也被放到github上了**，正好看到一篇文章[GitHub上读北大：覆盖AI高数等130多门课，讲义考题答案全都有，标星已3k+](https://mp.weixin.qq.com/s/ByY31UOlQ-KDYK0Akzm-nA)，自己特别搜集了一下，有机会可以自己，也希望能帮助到其他想学习大学课程的人，资料好搜集，不管主要还是要把这些知识学到，这才是关键。
+> 从2016年开始接触github，这几年github发展真是特别快，尤其特别受程序员的追捧。搞的在新闻报道和朋友圈中也经常见github的身影，不过，github确实是宝藏网站，现在**有很多大学的学习资源也被放到github上了**，正好看到一篇文章[GitHub上读北大：覆盖AI高数等130多门课，讲义考题答案全都有，标星已3k+](https://mp.weixin.qq.com/s/ByY31UOlQ-KDYK0Akzm-nA)，自己特别搜集了一下，有机会可以自己，也希望能帮助到其他想学习大学课程的人，资料好搜集，不过主要还是要把这些知识学到，这才是关键。
 
 
 ### Resource
